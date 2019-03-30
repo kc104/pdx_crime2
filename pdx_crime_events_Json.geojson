@@ -93,23 +93,6 @@
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
         "CASE_DESC" : "PARTY DISTURBANCE",
-        "occ_date" : 1470355200000,
-        "x_coordina" : 7662605,
-        "y_coordina" : 667163,
-        "census_tra" : 402
-      },
-      "geometry" : {
-        "x" : 7662605,
-        "y" : 667163
-      }
-    },
-    {
-      "attributes" : {
-        "OBJECTID" : 3,
-        "CATEGORY" : "OTHER",
-        "CALL_GROUP" : "DISORDER",
-        "final_case" : "PARTY",
-        "CASE_DESC" : "PARTY DISTURBANCE",
         "occ_date" : 1470441600000,
         "x_coordina" : 7636301,
         "y_coordina" : 660939,
@@ -122,7 +105,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 4,
+        "OBJECTID" : 3,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -139,7 +122,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 5,
+        "OBJECTID" : 4,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -156,7 +139,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 6,
+        "OBJECTID" : 5,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -173,7 +156,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 7,
+        "OBJECTID" : 6,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -190,7 +173,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 8,
+        "OBJECTID" : 7,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -207,7 +190,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 9,
+        "OBJECTID" : 8,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -224,7 +207,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 10,
+        "OBJECTID" : 9,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -241,7 +224,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 11,
+        "OBJECTID" : 10,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -258,7 +241,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 12,
+        "OBJECTID" : 11,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -275,7 +258,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 13,
+        "OBJECTID" : 12,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -292,7 +275,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 14,
+        "OBJECTID" : 13,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -309,7 +292,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 15,
+        "OBJECTID" : 14,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -326,7 +309,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 16,
+        "OBJECTID" : 15,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -343,7 +326,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 17,
+        "OBJECTID" : 16,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -360,7 +343,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 18,
+        "OBJECTID" : 17,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -377,7 +360,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 19,
+        "OBJECTID" : 18,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -394,7 +377,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 20,
+        "OBJECTID" : 19,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -411,7 +394,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 21,
+        "OBJECTID" : 20,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -428,7 +411,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 22,
+        "OBJECTID" : 21,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -445,7 +428,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 23,
+        "OBJECTID" : 22,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -462,7 +445,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 24,
+        "OBJECTID" : 23,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -479,7 +462,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 25,
+        "OBJECTID" : 24,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -496,7 +479,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 26,
+        "OBJECTID" : 25,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -513,7 +496,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 27,
+        "OBJECTID" : 26,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -530,7 +513,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 28,
+        "OBJECTID" : 27,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -547,7 +530,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 29,
+        "OBJECTID" : 28,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -564,7 +547,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 30,
+        "OBJECTID" : 29,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -581,7 +564,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 31,
+        "OBJECTID" : 30,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -598,7 +581,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 32,
+        "OBJECTID" : 31,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -615,7 +598,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 33,
+        "OBJECTID" : 32,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -632,7 +615,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 34,
+        "OBJECTID" : 33,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -649,7 +632,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 35,
+        "OBJECTID" : 34,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -666,7 +649,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 36,
+        "OBJECTID" : 35,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -683,7 +666,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 37,
+        "OBJECTID" : 36,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -700,7 +683,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 38,
+        "OBJECTID" : 37,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -717,7 +700,7 @@
     },
     {
       "attributes" : {
-        "OBJECTID" : 39,
+        "OBJECTID" : 38,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
